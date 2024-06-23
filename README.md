@@ -11,5 +11,5 @@
 
 # Ответ:
 
- ![1] https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/1.1.jpg
- ![1] https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/1.2.jpg
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/1.1.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/1.2.jpg)
