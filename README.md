@@ -26,4 +26,10 @@
 
 Ответ:
 
-
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.1.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.2.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.3.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.4.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.5.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.6.jpg)
+ ![1](https://github.com/Evgenii199130/Disaster-recovery-Keepalived/blob/main/scrin/2.7.jpg)
